@@ -1,5 +1,5 @@
 ---
-title: scmp v1.0.0
+title: material-test v1.0.0
 language_tabs:
   - shell: Shell
   - http: HTTP
